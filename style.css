@@ -1,0 +1,48 @@
+.whole{
+    background-color:gray;
+
+}
+.top{
+    text-align: center;
+    background-color: gray;
+display: flex;
+justify-content: center;
+
+}
+.bar
+{
+background-color: gray;
+
+}
+
+.meat{
+
+ display: flex;   
+ justify-content: center;
+
+}
+
+.copyright{
+display: flex;
+justify-content: center;
+
+}
+
+.class{
+    background-color: gray;
+}
+
+#author{
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#bio{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
